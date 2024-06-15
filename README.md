@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, ``Hi, I'm Virgil Sabit Cabactulan, a dedicated Bachelor of Science in Information Technology student with a passion for technology and a drive for responsibility and accountability. With a keen interest in the IT field, I actively seek opportunities to expand my knowledge and contribute meaningfully to projects and initiatives. I thrive on the challenges that come with working in IT, constantly striving to stay updated with the latest trends and technologies. My commitment to excellence and my strong sense of accountability make me a valuable asset in any IT endeavor.</h1>
-<h3 align="center">A passionate frontend developer from Philippines ( logical thinker)</h3>
+<h3 align="center">Hi 👋, ``Hi, I'm Virgil Sabit Cabactulan, a dedicated Bachelor of Science in Information Technology student with a passion for technology and a drive for responsibility and accountability. With a keen interest in the IT field, I actively seek opportunities to expand my knowledge and contribute meaningfully to projects and initiatives. I thrive on the challenges that come with working in IT, constantly striving to stay updated with the latest trends and technologies. My commitment to excellence and my strong sense of accountability make me a valuable asset in any IT endeavor.</h3>
+<h6 align="center">A passionate frontend developer from Philippines ( logical thinker)</h6>
 
 
 
